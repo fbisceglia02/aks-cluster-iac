@@ -2,6 +2,8 @@
 
 ## Overview
 This repository contains Infrastructure-as-Code (IaC) templates to set up an Azure Kubernetes Service (AKS) cluster within a brand-new resource group in Azure.
+This means that before deploying this infrastructure you should be correctly authenticated to microsoft Azure
+`az login`
 
 ## Prerequisites
 
